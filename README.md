@@ -51,7 +51,7 @@ Currently focusing on:
 - Laravel
 - PHP
 
-### 🗄 Database
+### Database
 
 - Microsoft SQL Server
 - MySQL
