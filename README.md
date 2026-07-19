@@ -17,7 +17,7 @@ Building modern, scalable, and user-focused web applications.
 
 ---
 
-# 💻 About Me
+# About Me
 
 I'm a passionate **Full Stack Web Developer** who enjoys creating modern, responsive, and scalable web applications.
 
@@ -33,9 +33,9 @@ Currently focusing on:
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-### 💚 Frontend
+### Frontend
 
 - Vue.js
 - JavaScript (ES6+)
@@ -44,7 +44,7 @@ Currently focusing on:
 - Bootstrap
 - Tailwind CSS
 
-### 💙 Backend
+### Backend
 
 - Node.js
 - Express.js
@@ -56,67 +56,36 @@ Currently focusing on:
 - Microsoft SQL Server
 - MySQL
 
-### 🎨 UI / UX
+### UI / UX
 
 - Figma
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=6DB5C0&line=6DB5C0&point=FFFFFF&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
+# Currently Learning
 
 - Advanced Vue.js
 - Node.js Backend Development
 - Clean Architecture
 - REST API Design
 - System Design
+- React.js
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Heap-Somon">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/somon-heap-8144323a8/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:heapsomon@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
