@@ -95,6 +95,6 @@ Currently focusing on:
 
 <div align="center">
 
-*"Always learning, always building."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=6DB5C0&text=Always%20Learning,%20Always%20Building.&fontColor=ffffff&fontSize=28&animation=twinkling"/>
 
 </div>
