@@ -3,6 +3,10 @@
 
 <div align="center">
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=6DB5C0&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Vue.js+%7C+Node.js+%7C+Laravel;Always+Learning.;Always+Building."/>
+</p>
+
 Building modern, scalable, and user-focused web applications.
 
 </div>
